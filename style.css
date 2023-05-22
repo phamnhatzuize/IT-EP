@@ -204,26 +204,20 @@ body{
         align-items: center;
     }
     .home {
-        padding-bottom: 60px;
+        padding-bottom:40px;
     }
 }
 @media only screen and (max-width: 47.1875em){
     .nav a{
         padding-top: 50px;
-    }
-    .nav a.fun{
-        margin-left: 20px;
-    }
-    .nav a.active{
-        margin-left: 13px;
+        margin-left: 15px;
     }
     .content h3{
         width: 100%;
     }
     .home-img img{
-        scale: 1;
-        max-width:350px;
-        padding-top: 50px;
+        max-width: 100%;
+        padding-top: 170px;
     }
 }
 @media screen and (min-width: 46.25em) and (max-width: 63.9375em){
